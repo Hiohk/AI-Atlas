@@ -1,0 +1,79 @@
+slug	title	url	type	topics	difficulty
+attention-is-all-you-need	Attention Is All You Need	https://arxiv.org/abs/1706.03762	paper	transformer,llm,ai-research	advanced
+scaling-laws-for-neural-language-models	Scaling Laws for Neural Language Models	https://arxiv.org/abs/2001.08361	paper	pre-training,ai-research	advanced
+chinchilla-compute-optimal-training	Training Compute-Optimal Large Language Models	https://arxiv.org/abs/2203.15556	paper	pre-training,ai-research	advanced
+instructgpt-training-with-human-feedback	Training Language Models to Follow Instructions with Human Feedback	https://arxiv.org/abs/2203.02155	paper	rlhf,alignment	advanced
+direct-preference-optimization	Direct Preference Optimization	https://arxiv.org/abs/2305.18290	paper	alignment,rlhf	advanced
+constitutional-ai	Constitutional AI: Harmlessness from AI Feedback	https://arxiv.org/abs/2212.08073	paper	alignment,ai-safety	advanced
+chain-of-thought-prompting	Chain-of-Thought Prompting Elicits Reasoning in LLMs	https://arxiv.org/abs/2201.11903	paper	reasoning,prompting	intermediate
+self-consistency-improves-reasoning	Self-Consistency Improves Chain of Thought Reasoning	https://arxiv.org/abs/2203.11171	paper	reasoning,prompting	intermediate
+deepseek-r1-reasoning-via-rl	DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL	https://arxiv.org/abs/2501.12948	paper	reasoning,rlhf,llm	advanced
+llama-3-herd-of-models	The Llama 3 Herd of Models	https://arxiv.org/abs/2407.21783	paper	llm,pre-training	advanced
+mixtral-of-experts	Mixtral of Experts	https://arxiv.org/abs/2401.04088	paper	moe,llm	advanced
+lora-low-rank-adaptation	LoRA: Low-Rank Adaptation of Large Language Models	https://arxiv.org/abs/2106.09685	paper	fine-tuning	intermediate
+qlora-efficient-finetuning	QLoRA: Efficient Finetuning of Quantized LLMs	https://arxiv.org/abs/2305.14314	paper	fine-tuning,quantization	advanced
+retrieval-augmented-generation-paper	Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks	https://arxiv.org/abs/2005.11401	paper	rag,embeddings	intermediate
+lost-in-the-middle	Lost in the Middle: How Language Models Use Long Contexts	https://arxiv.org/abs/2307.03172	paper	long-context,rag	intermediate
+flashattention	FlashAttention: Fast and Memory-Efficient Exact Attention	https://arxiv.org/abs/2205.14135	paper	gpu-kernels,inference	advanced
+vllm-paged-attention	Efficient Memory Management for LLM Serving with PagedAttention	https://arxiv.org/abs/2309.06180	paper	serving,inference	advanced
+react-synergizing-reasoning-and-acting	ReAct: Synergizing Reasoning and Acting in Language Models	https://arxiv.org/abs/2210.03629	paper	agents,tool-use,reasoning	intermediate
+toolformer	Toolformer: Language Models Can Teach Themselves to Use Tools	https://arxiv.org/abs/2302.04761	paper	tool-use,agents	advanced
+swe-bench	SWE-bench: Can Language Models Resolve Real-World GitHub Issues?	https://arxiv.org/abs/2310.06770	paper	swe-benchmarks,benchmarks,coding-agents	intermediate
+clip-transferable-visual-models	Learning Transferable Visual Models From Natural Language Supervision	https://arxiv.org/abs/2103.00020	paper	vision-language,multimodal	advanced
+latent-diffusion-models	High-Resolution Image Synthesis with Latent Diffusion Models	https://arxiv.org/abs/2112.10752	paper	diffusion,computer-vision	advanced
+whisper-robust-speech-recognition	Robust Speech Recognition via Large-Scale Weak Supervision	https://arxiv.org/abs/2212.04356	paper	speech,multimodal	intermediate
+karpathy-neural-networks-zero-to-hero	Neural Networks: Zero to Hero	https://karpathy.ai/zero-to-hero.html	course	ai-fundamentals,transformer	intermediate
+stanford-cs224n	CS224N: Natural Language Processing with Deep Learning	https://web.stanford.edu/class/cs224n/	course	ai-fundamentals,llm	advanced
+stanford-cs336-language-modeling	CS336: Language Modeling from Scratch	https://stanford-cs336.github.io/spring2025/	course	pre-training,llm	advanced
+fast-ai-practical-deep-learning	Practical Deep Learning for Coders	https://course.fast.ai/	course	ai-fundamentals	beginner
+mit-intro-to-deep-learning	MIT 6.S191: Introduction to Deep Learning	https://introtodeeplearning.com/	course	ai-fundamentals	beginner
+hugging-face-llm-course	Hugging Face LLM Course	https://huggingface.co/learn/llm-course	course	llm,ai-engineering	beginner
+hugging-face-agents-course	Hugging Face AI Agents Course	https://huggingface.co/learn/agents-course	course	agents,tool-use	intermediate
+anthropic-prompt-engineering-tutorial	Anthropic Prompt Engineering Interactive Tutorial	https://github.com/anthropics/prompt-eng-interactive-tutorial	tutorial	prompting	beginner
+full-stack-llm-bootcamp	Full Stack LLM Bootcamp	https://fullstackdeeplearning.com/llm-bootcamp/	course	ai-engineering	intermediate
+deeplearning-ai-prompt-engineering	ChatGPT Prompt Engineering for Developers	https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/	course	prompting,ai-engineering	beginner
+langchain	LangChain	https://github.com/langchain-ai/langchain	github	ai-engineering,rag,agents	intermediate
+llamaindex	LlamaIndex	https://github.com/run-llama/llama_index	github	rag,vector-search	intermediate
+huggingface-transformers	Transformers	https://github.com/huggingface/transformers	github	llm,ai-engineering	intermediate
+nanogpt	nanoGPT	https://github.com/karpathy/nanoGPT	github	transformer,pre-training	advanced
+vllm	vLLM	https://github.com/vllm-project/vllm	github	serving,inference	advanced
+ollama	Ollama	https://github.com/ollama/ollama	github	inference,ai-tools	beginner
+dspy	DSPy	https://github.com/stanfordnlp/dspy	github	prompting,ai-engineering	advanced
+pydantic-ai	Pydantic AI	https://github.com/pydantic/pydantic-ai	github	agents,ai-engineering	intermediate
+openai-cookbook	OpenAI Cookbook	https://github.com/openai/openai-cookbook	github	ai-engineering,prompting	beginner
+unsloth	Unsloth	https://github.com/unslothai/unsloth	github	fine-tuning,quantization	intermediate
+ragas	Ragas	https://github.com/explodinggradients/ragas	github	rag-evaluation,evaluation	intermediate
+langfuse	Langfuse	https://github.com/langfuse/langfuse	github	observability,ai-engineering	intermediate
+pgvector	pgvector	https://github.com/pgvector/pgvector	github	vector-search,embeddings	intermediate
+faiss	FAISS	https://github.com/facebookresearch/faiss	github	vector-search,embeddings	advanced
+llm-course-mlabonne	LLM Course	https://github.com/mlabonne/llm-course	github	llm,fine-tuning	intermediate
+openai-agents-sdk	OpenAI Agents SDK	https://github.com/openai/openai-agents-python	github	agents,multi-agent	intermediate
+model-context-protocol-spec	Model Context Protocol Specification	https://modelcontextprotocol.io/	documentation	mcp,agents,tool-use	intermediate
+openai-structured-outputs-guide	Structured Outputs Guide	https://platform.openai.com/docs/guides/structured-outputs	documentation	ai-engineering	intermediate
+anthropic-tool-use-docs	Tool Use with Claude	https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview	documentation	tool-use,agents	intermediate
+anthropic-building-effective-agents	Building Effective Agents	https://www.anthropic.com/engineering/building-effective-agents	blog	agents,multi-agent	intermediate
+anthropic-contextual-retrieval	Introducing Contextual Retrieval	https://www.anthropic.com/news/contextual-retrieval	blog	rag,chunking,reranking	intermediate
+lilian-weng-llm-powered-agents	LLM Powered Autonomous Agents	https://lilianweng.github.io/posts/2023-06-23-agent/	blog	agents,agent-memory	intermediate
+jay-alammar-illustrated-transformer	The Illustrated Transformer	https://jalammar.github.io/illustrated-transformer/	blog	transformer,ai-fundamentals	beginner
+eugene-yan-llm-patterns	Patterns for Building LLM-based Systems and Products	https://eugeneyan.com/writing/llm-patterns/	blog	ai-engineering,evaluation	intermediate
+hamel-husain-your-ai-product-needs-evals	Your AI Product Needs Evals	https://hamel.dev/blog/posts/evals/	blog	evaluation,ai-engineering	intermediate
+chip-huyen-building-llm-applications	Building LLM Applications for Production	https://huyenchip.com/2023/04/11/llm-engineering.html	blog	ai-engineering,serving	intermediate
+simon-willison-prompt-injection	Prompt Injection: What's the Worst That Can Happen?	https://simonwillison.net/2023/Apr/14/worst-that-can-happen/	blog	llm-safety,guardrails	intermediate
+karpathy-deep-dive-into-llms	Deep Dive into LLMs like ChatGPT	https://www.youtube.com/watch?v=7xTGNNLPyMI	video	llm,pre-training	intermediate
+karpathy-lets-build-gpt	Let's Build GPT: From Scratch, in Code	https://www.youtube.com/watch?v=kCc8FmEb1nY	video	transformer,pre-training	intermediate
+3blue1brown-transformers-explained	But What Is a GPT? Visual Intro to Transformers	https://www.youtube.com/watch?v=wjZofJX0v4M	video	transformer,ai-fundamentals	beginner
+ai-engineering-book	AI Engineering: Building Applications with Foundation Models	https://www.oreilly.com/library/view/ai-engineering/9781098166298/	book	ai-engineering,evaluation	intermediate
+hands-on-large-language-models	Hands-On Large Language Models	https://www.oreilly.com/library/view/hands-on-large-language/9781098150956/	book	llm,embeddings	beginner
+deep-learning-book	Deep Learning	https://www.deeplearningbook.org/	book	ai-fundamentals	advanced
+speech-and-language-processing	Speech and Language Processing	https://web.stanford.edu/~jurafsky/slp3/	book	ai-fundamentals,llm	intermediate
+cursor	Cursor	https://cursor.com	ai-product	ai-coding,coding-agents	beginner
+claude-code	Claude Code	https://www.anthropic.com/claude-code	ai-product	coding-agents,ai-coding	intermediate
+openrouter	OpenRouter	https://openrouter.ai/	ai-product	inference,cost-optimization	beginner
+lmarena	LMArena	https://lmarena.ai/	benchmark	benchmarks,evaluation	beginner
+artificial-analysis	Artificial Analysis	https://artificialanalysis.ai/	tool	benchmarks,inference,cost-optimization	beginner
+mmlu-benchmark	MMLU: Measuring Massive Multitask Language Understanding	https://arxiv.org/abs/2009.03300	benchmark	benchmarks,evaluation	intermediate
+fineweb-dataset	FineWeb	https://huggingface.co/datasets/HuggingFaceFW/fineweb	dataset	pre-training	advanced
+the-batch-newsletter	The Batch	https://www.deeplearning.ai/the-batch/	newsletter	ai-industry	beginner
+import-ai-newsletter	Import AI	https://importai.substack.com/	newsletter	ai-industry,ai-research	intermediate
+latent-space-podcast	Latent Space	https://www.latent.space/	podcast	ai-engineering,ai-industry	intermediate
+dwarkesh-podcast	Dwarkesh Podcast	https://www.dwarkesh.com/	podcast	ai-industry,ai-research	beginner
