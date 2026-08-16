@@ -4,6 +4,22 @@ The knowledge map for AI. A curated, searchable atlas of AI resources — papers
 
 Built with Next.js 15 (App Router, Server Components, Server Actions), TypeScript, Tailwind CSS v4, Drizzle ORM and Postgres with `pgvector`.
 
+## Screenshots
+
+Homepage hero, topic map, trending, and learning paths (Chinese locale).
+
+**Home**
+
+![Homepage hero](picture/pic01.png)
+
+![Topics and editor picks](picture/pic02.png)
+
+![Trending topics, learning paths, and submit CTA](picture/pic03.png)
+
+**Learning paths**
+
+![Learning paths catalogue and matcher](picture/pic04.png)
+
 ## Quick start
 
 Requires Node 22.18 or newer. No database to install, no API keys.
